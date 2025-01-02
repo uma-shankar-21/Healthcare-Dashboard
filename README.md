@@ -16,7 +16,4 @@ In this phase, I developed a design strategy for the dashboard, creating a visua
 **Dashboard Design and Interactivity**  
 I guided the design of the dashboard in Power BI, paying close attention to layout, color themes, and interactivity features such as slicers. I introduced dynamic measures for metrics like average versus median waiting times, enhancing the dashboard's usability.
 
-**Publishing and Sharing the Dashboard**  
-Finally, I covered the process of publishing the dashboard in Power BI services and sharing it with stakeholders. I discussed important considerations regarding data security, including the implementation of row-level security, and set up a refresh schedule for the dashboard to ensure data accuracy.
-
 This project not only enhanced my Power BI skills but also provided valuable insights into the healthcare sector's data analysis needs.
